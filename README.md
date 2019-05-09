@@ -1,0 +1,1 @@
+# Scene-Categorization-Bag-of-Words-
